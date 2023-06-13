@@ -1,2 +1,0 @@
-# GoDAO
-EthFS hackathon project
